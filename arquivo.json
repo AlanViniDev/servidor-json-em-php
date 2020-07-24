@@ -1,1 +1,18 @@
-{"frutas":[{"nome":"abacaxi","Preco":"55.6","quantidade":"13"}],"verduras":[{"nome":"xuxu","Preco":"65.7","Quantidade":"55"}],"dados":[{"name":"alan","id":1595566786}],"eletrodomesticos":[{"nome":"televisao"}]}
+{
+  "frutas":[{
+    "nome":"abacaxi",
+    "Preco":"55.6",
+    "quantidade":"13"
+  }],
+  "verduras":[{
+    "nome":"xuxu",
+    "Preco":"65.7",
+    "Quantidade":"55"
+  }],
+  "dados":[{
+    "name":"alan",
+    "id":1595566786
+  }],
+  "eletrodomesticos":[{
+    "nome":"televisao"
+  }]}
