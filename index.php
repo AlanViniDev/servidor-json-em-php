@@ -11,7 +11,7 @@ header('Content-type: application/json');
 
 $body = file_get_contents('php://input');
 
-/*Requisição de dados via get */
+/*Requisicao de dados via get */
 if($method === 'GET')
 {
     if($json[$path[0]])
