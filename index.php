@@ -24,7 +24,7 @@ if($method === 'GET')
     }
 }
 
-/*Insercoo de dados via post */
+/*Insercao de dados via post */
 if($method === 'POST')
 { 
     // se for inserir o dado insere via jsonBody
